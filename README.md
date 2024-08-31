@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/saumya_subham" target="blank"><img src="https://img.shields.io/twitter/follow/saumya_subham?logo=twitter&style=for-the-badge" alt="saumya_subham" /></a> </p>
 
-<div style="display: flex; align-items: center;">
+<div align="left">
   <div>
     <ul>
       <li>🌱 I’m currently learning <strong>Big Data, Deep Learning</strong></li>

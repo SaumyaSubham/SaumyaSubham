@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Saumya Subham Mishra</h1>
 <h3 align="center">A Dedicated Data Science enthusiast from India.</h3>
-<img align="right" alt="Coding" width="200" height="200" src="https://cdn.dribbble.com/users/1626229/screenshots/16311321/media/0d2090c377191f4e49bde0932d71f9d3.jpg?resize=1000x750&vertical=center">
+<img align="right" alt="Coding" width="200" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFJDPhTGSB5eLtaRdSpcgWLPTzdJRfq_FWV8lGMRp_bvChJVbTOTrVmaRnZcAf-Ky9c3I&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyasubham&label=Profile%20views&color=0e75b6&style=flat" alt="saumyasubham" /> </p>
 
@@ -22,7 +22,7 @@
 
   <!-- Right Section (Image) -->
   <div style="text-align: right;">
-    <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="Fun Fact Image" width="400" height="400">
+    <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="Fun Fact Image" width="600" height="200">
   </div>
 </div>
 

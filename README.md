@@ -23,14 +23,14 @@
   <img src="https://i.pinimg.com/originals/d7/7e/2c/d77e2cc708655672d9313f87689c9cb2.gif" alt="Photography" width="200" height="150">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXIwbGZwOHo0NW4ycnM5cXBmamQ4bDVqbHg4ODVmODJuM3d2Y2JxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4oVhPxtxcgRIE8/giphy.gif" alt="Traveling" width="200" height="150">
 </p>
-* :video_game: Gaming
+ * :video_game: Gaming
 * 🎬 Video and Photo Editing
 * 📸 Photography
 * :sunrise_over_mountains: Traveling
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/saumya_subham" target="blank"><img align="center" src="https://iconscout.com/icons/twitter-x" alt="saumya_subham" height="30" width="40" /></a>
+<a href="https://twitter.com/saumya_subham" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg" alt="saumya_subham" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saumya subham mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saumya subham mishra" height="30" width="40" /></a>
 <a href="https://medium.com/@saumyasubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saumyasubham" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saumyasubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saumyasubham" height="30" width="40" /></a>

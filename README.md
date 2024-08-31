@@ -17,7 +17,7 @@
       <li>⚡ Fun fact <strong>I think I am an Optimist!</strong></li>
     </ul>
   </div>
-  <div style="margin-right: 20px;">
+  <div align="right">
     <img src="https://i.pinimg.com/474x/7f/7b/0c/7f7b0c9bf14ae9b769705a071dfb6dd0.jpg" alt="Fun Fact Image" width="200" height="200">
   </div>
 </div>

@@ -9,13 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/saumya_subham" target="blank"><img src="https://img.shields.io/twitter/follow/saumya_subham?logo=twitter&style=for-the-badge" alt="saumya_subham" /></a> </p>
 
-<div align="left">
-  <ul>
-    <li>🌱 I’m currently learning <strong>Big Data, Deep Learning</strong></li>
-    <li>📫 How to reach me <strong>sm025663@gmail.com</strong></li>
-    <li>⚡ Fun fact <strong>I think I am an Optimist!</strong></li>
-  </ul>
-  <img src="https://i.pinimg.com/474x/7f/7b/0c/7f7b0c9bf14ae9b769705a071dfb6dd0.jpg" align="right" alt="Fun Fact Image" width="200" height="200">
+<div style="display: flex; align-items: center;">
+  <div>
+    <ul>
+      <li>🌱 I’m currently learning <strong>Big Data, Deep Learning</strong></li>
+      <li>📫 How to reach me <strong>sm025663@gmail.com</strong></li>
+      <li>⚡ Fun fact <strong>I think I am an Optimist!</strong></li>
+    </ul>
+  </div>
+  <div style="margin-left: 20px;">
+    <img src="https://i.pinimg.com/474x/7f/7b/0c/7f7b0c9bf14ae9b769705a071dfb6dd0.jpg" alt="Fun Fact Image" width="200" height="200">
+  </div>
 </div>
 
 ## 🔥 Interested in -

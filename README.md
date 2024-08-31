@@ -9,17 +9,22 @@
 
 <p align="left"> <a href="https://twitter.com/saumya_subham" target="blank"><img src="https://img.shields.io/twitter/follow/saumya_subham?logo=twitter&style=for-the-badge" alt="saumya_subham" /></a> </p>
 
-<div align="left">
-  <div>
+<div style="display: flex; align-items: center;">
+
+  <!-- Left Section (Details) -->
+  <div style="flex: 1;">
     <ul>
       <li>🌱 I’m currently learning <strong>Big Data, Deep Learning</strong></li>
       <li>📫 How to reach me <strong>sm025663@gmail.com</strong></li>
       <li>⚡ Fun fact <strong>I think I am an Optimist!</strong></li>
     </ul>
   </div>
-  <div align="right">
+
+  <!-- Right Section (Image) -->
+  <div style="flex: 1; text-align: right;">
     <img src="https://i.pinimg.com/474x/7f/7b/0c/7f7b0c9bf14ae9b769705a071dfb6dd0.jpg" alt="Fun Fact Image" width="200" height="200">
   </div>
+
 </div>
 
 ## 🔥 Interested in -
@@ -40,7 +45,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/saumya_subham" target="blank"><img align="center" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAADQ0lEQVR4nO2ZSWgUQRSGPxP3xGg08aDihoGAoqC4ILhE8RA8mMQFDwrRmyclKiIoaoKeFCEg5qAHvagHcQkIOQgqGBCMC+4QEVcUl2iMC0ZtKfgHHmMy0zNJujtkfiiY+ee9qvemq/561QUZZJBBVzAaqAFuA22AF3BrA24B1UBhukmsAlpDCN7rpH0BKtJJ4q86OAcsAnIIHjnAYuC8YvkDlKcynWJPYjvRwQ7F9Bko8ONQY55E1HBRse3zY3xHxm46RQ0lis0JQFJ8lXEu0cMwxeamflLEVCKq8PzG16cSOZxE8ytTCGwk8ER+td0Un2/DQcDdBIm4dVbkY6wBwGX5XAL6B52Iw1TghzbOUsOflv91IDuBfz/ghGzvA8PDXCPbZPsaGCVuBPBc/K4Evrtl8wYY73O8Hksky0wNu4EuVDnRDsztwG+1nuR3YI7PsXpctcYCH+WzwfCHxDXH7UmzgW9KtCyFcQKR35Wm7C4yghCrEo6Kmwi8E1eV4hiB7SMn5ddo1GeaBMHx64GH+lyXRv+BJeJU55l89xh+S5w0N/iU2VB39gXAby3yeUZmG8zhyK/Mhl6iHJD/UxV5DmOAD+I3daHvQBNx0+aG+jhm+DJxTrGKe0vRWKyAXT9rDH9cXBMwsDckMsHI7HtNLbSfNIvfH/VE8oB76uOTUSq36JEItEsUnDhEMpFsoF7+V4FxwFt932zs9op7AeRHMZEj8n1kAixVXfUTmG4EoVG2rgKOVCJV8nMyOyXutzpTrg8WN9m8dloblUSWa867cmR+B78PBR6r34OG3yiuJYVS3uupRGaqWHTTZ10Cu1nAL1W9Sw1/xqyprLAScbL60schKv4w9cocxPK16B2/tTvj82uYq7f0zvaUkddEcP/4FfmcNfwyIwgzuik+X4ZOZi/I7prOHn4xScWj10l7AAwJKpFaUximc29RmSART6+buhJfaoYhwetzibRG+CV2njmgJUVMidxNUdSwxBwDkqJaxu66K2qoV2yu6EyKQiOP7rorKthpypnYZpoUFSolPF13lYS0ZnI1nWJPwsW0ItVOynXx6EWktaSTRAwFunhsMldyQbZW4KbWhO/plEEGGfAf/gHWUtlOdMJ2cAAAAABJRU5ErkJggg==" alt="saumya_subham" height="30" width="40" /></a>
+<a href="https://twitter.com/saumya_subham" target="blank">
+    <img align="center" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOmtpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHdpZHRoPSIyNHB4IiBoZWlnaHQ9IjI0cHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMjQgMjQ7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBkPSJNMTQuMDk1NDc5LDEwLjMxNjQ4MkwyMi4yODYzNTQsMWgtMS45NDA3MThsLTcuMTE1MzUyLDguMDg3NjgyTDcuNTUxNDEsMUgxTDguNTg5NDg4LDEyLjIzMTA5M0wxLDIzaDEuOTQwNzE3ICBsNy41MDkzNzItOC41NDI4NjFMMTYuNDQ4NTg3LDIzSDIzTDE0LjA5NTQ3OSwxMC4zMTY0ODJ6IE0xMS40MzY1MjIsMTMuMzM4NDY1bC0wLjg3MTYyNC0xLjIxODcwNGwtNi45MjQzMTEtOS42ODgxNWhIMjk4MTMzOSBsNS41ODk3OCw3LjgyMTU1MGwwLjg2Nzk0OSwxLjIxODcwNGw3LjI2NTA2LDEwLjE2NjI3MWgtMi45ODExMzlMMTEuNDM2NTIyLDEzLjMzODQ2NXoiLz48L3N2Zz4=" alt="saumya_subham" height="30" width="30" />
+</a>
 <a href="https://linkedin.com/in/saumya subham mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saumya subham mishra" height="30" width="40" /></a>
 <a href="https://medium.com/@saumyasubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saumyasubham" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saumyasubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saumyasubham" height="30" width="40" /></a>

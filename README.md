@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Saumya Subham Mishra</h1>
 <h3 align="center">A Dedicated Data Science enthusiast from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/74/e2/48/74e2480da58eccbd98030e9731c9c71e.jpg">
+<img align="right" alt="Coding" width="200" height="200" src="https://i.pinimg.com/564x/74/e2/48/74e2480da58eccbd98030e9731c9c71e.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyasubham&label=Profile%20views&color=0e75b6&style=flat" alt="saumyasubham" /> </p>
 

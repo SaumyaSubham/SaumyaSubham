@@ -9,10 +9,10 @@
 
 <p align="left"> <a href="https://twitter.com/saumya_subham" target="blank"><img src="https://img.shields.io/twitter/follow/saumya_subham?logo=twitter&style=for-the-badge" alt="saumya_subham" /></a> </p>
 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <!-- Left Section (Details) -->
-  <div style="flex: 1;">
-    <ul>
+  <div style="max-width: 60%;">
+    <ul style="list-style: none; padding: 0; margin: 0;">
       <li>🌱 I’m currently learning <strong>Big Data, Deep Learning</strong></li>
       <li>📫 How to reach me <strong>sm025663@gmail.com</strong></li>
       <li>⚡ Fun fact <strong>I think I am an Optimist!</strong></li>
@@ -20,10 +20,11 @@
   </div>
 
   <!-- Right Section (Image) -->
-  <div style="flex: 0 0 auto; text-align: right;">
+  <div style="text-align: right;">
     <img src="https://i.pinimg.com/564x/74/e2/48/74e2480da58eccbd98030e9731c9c71e.jpg" alt="Fun Fact Image" width="200" height="200">
   </div>
 </div>
+
 
 
 ## 🔥 Interested in -

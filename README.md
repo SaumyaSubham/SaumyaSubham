@@ -4,26 +4,20 @@
 
 <h1 align="center">Hi 👋, I'm Saumya Subham Mishra</h1>
 <h3 align="center">A Dedicated Data Science enthusiast from India.</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/74/e2/48/74e2480da58eccbd98030e9731c9c71e.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyasubham&label=Profile%20views&color=0e75b6&style=flat" alt="saumyasubham" /> </p>
 
 <p align="left"> <a href="https://twitter.com/saumya_subham" target="blank"><img src="https://img.shields.io/twitter/follow/saumya_subham?logo=twitter&style=for-the-badge" alt="saumya_subham" /></a> </p>
 
-<div style="display: table; width: 100%;">
-  <!-- Left Section (Details) -->
-  <div style="display: table-cell; width: 60%; vertical-align: top;">
-    <ul style="list-style: none; padding: 0; margin: 0;">
+<div align="left">
+  <div>
+    <ul>
       <li>🌱 I’m currently learning <strong>Big Data, Deep Learning</strong></li>
       <li>📫 How to reach me <strong>sm025663@gmail.com</strong></li>
       <li>⚡ Fun fact <strong>I think I am an Optimist!</strong></li>
     </ul>
   </div>
-
-  <!-- Right Section (Image) -->
-  <div style="display: table-cell; width: 40%; vertical-align: top; text-align: right;">
-    <img src="https://i.pinimg.com/564x/74/e2/48/74e2480da58eccbd98030e9731c9c71e.jpg" alt="Fun Fact Image" width="200" height="200">
-  </div>
-</div>
 
 
 ## 🔥 Interested in -

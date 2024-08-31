@@ -22,7 +22,7 @@
 
   <!-- Right Section (Image) -->
   <div style="flex: 1; text-align: right;">
-    <img src="https://i.pinimg.com/474x/7f/7b/0c/7f7b0c9bf14ae9b769705a071dfb6dd0.jpg" alt="Fun Fact Image" width="200" height="200">
+    <img src="https://i.pinimg.com/564x/74/e2/48/74e2480da58eccbd98030e9731c9c71e.jpg" alt="Fun Fact Image" width="200" height="200">
   </div>
 
 </div>
@@ -46,7 +46,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saumya_subham" target="blank">
-    <img align="center" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOmtpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHdpZHRoPSIyNHB4IiBoZWlnaHQ9IjI0cHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMjQgMjQ7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBkPSJNMTQuMDk1NDc5LDEwLjMxNjQ4MkwyMi4yODYzNTQsMWgtMS45NDA3MThsLTcuMTE1MzUyLDguMDg3NjgyTDcuNTUxNDEsMUgxTDguNTg5NDg4LDEyLjIzMTA5M0wxLDIzaDEuOTQwNzE3ICBsNy41MDkzNzItOC41NDI4NjFMMTYuNDQ4NTg3LDIzSDIzTDE0LjA5NTQ3OSwxMC4zMTY0ODJ6IE0xMS40MzY1MjIsMTMuMzM4NDY1bC0wLjg3MTYyNC0xLjIxODcwNGwtNi45MjQzMTEtOS42ODgxNWhIMjk4MTMzOSBsNS41ODk3OCw3LjgyMTU1MGwwLjg2Nzk0OSwxLjIxODcwNGw3LjI2NTA2LDEwLjE2NjI3MWgtMi45ODExMzlMMTEuNDM2NTIyLDEzLjMzODQ2NXoiLz48L3N2Zz4=" alt="saumya_subham" height="30" width="30" />
+    <img align="center" src="https://i.ibb.co/3mJ0qC8/11053970-x-logo-twitter-new-brand-icon.png" alt="saumya_subham" height="30" width="30" />
 </a>
 <a href="https://linkedin.com/in/saumya subham mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saumya subham mishra" height="30" width="40" /></a>
 <a href="https://medium.com/@saumyasubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saumyasubham" height="30" width="40" /></a>
